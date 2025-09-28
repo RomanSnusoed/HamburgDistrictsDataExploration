@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "name": "hamburg_districts",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Barmbek-Sued"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.029, 53.58],
+            [10.07, 53.58],
+            [10.07, 53.61],
+            [10.029, 53.61],
+            [10.029, 53.58]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Altona-Altstadt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.92, 53.53],
+            [9.97, 53.53],
+            [9.97, 53.56],
+            [9.92, 53.56],
+            [9.92, 53.53]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Wilhelmsburg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.94, 53.48],
+            [10.02, 53.48],
+            [10.02, 53.52],
+            [9.94, 53.52],
+            [9.94, 53.48]
+          ]
+        ]
+      }
+    }
+  ]
+}

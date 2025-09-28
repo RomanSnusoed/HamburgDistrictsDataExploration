@@ -1,0 +1,19 @@
+station_id,station_name,district,latitude,longitude,year,pollutant,value
+13,Habichtstrasse,Barmbek-Sued,53.5925,10.0458,2020,NO2,38.4
+13,Habichtstrasse,Barmbek-Sued,53.5925,10.0458,2020,PM10,22.1
+13,Habichtstrasse,Barmbek-Sued,53.5925,10.0458,2020,O3,49.5
+13,Habichtstrasse,Barmbek-Sued,53.5925,10.0458,2021,NO2,35.2
+13,Habichtstrasse,Barmbek-Sued,53.5925,10.0458,2021,PM10,21.0
+13,Habichtstrasse,Barmbek-Sued,53.5925,10.0458,2021,O3,51.2
+31,Max-Brauer-Allee,Altona-Altstadt,53.5531,9.9465,2020,NO2,46.3
+31,Max-Brauer-Allee,Altona-Altstadt,53.5531,9.9465,2020,PM10,23.8
+31,Max-Brauer-Allee,Altona-Altstadt,53.5531,9.9465,2020,O3,42.7
+31,Max-Brauer-Allee,Altona-Altstadt,53.5531,9.9465,2021,NO2,43.1
+31,Max-Brauer-Allee,Altona-Altstadt,53.5531,9.9465,2021,PM10,22.9
+31,Max-Brauer-Allee,Altona-Altstadt,53.5531,9.9465,2021,O3,44.1
+53,Wilhelmsburg Sued,Wilhelmsburg,53.5050,9.9910,2020,NO2,29.6
+53,Wilhelmsburg Sued,Wilhelmsburg,53.5050,9.9910,2020,PM10,19.7
+53,Wilhelmsburg Sued,Wilhelmsburg,53.5050,9.9910,2020,O3,47.9
+53,Wilhelmsburg Sued,Wilhelmsburg,53.5050,9.9910,2021,NO2,27.8
+53,Wilhelmsburg Sued,Wilhelmsburg,53.5050,9.9910,2021,PM10,18.5
+53,Wilhelmsburg Sued,Wilhelmsburg,53.5050,9.9910,2021,O3,48.7
